@@ -3,10 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Level-01.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.0892,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 343.3712816746236,
+                "y": 164.79985310319503
+            }
+        },
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
     },
     "last.imagePath": "/Users/yudisetiawan/AndroidStudioProjects/pixel_adventure/assets/images/Terrain",
     "map.height": 23,
@@ -15,9 +30,13 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "Pixel Adventure.tsx",
+        "Level-01.tmx"
     ],
     "project": "Pixel Adventure.tiled-project",
     "recentFiles": [
+        "Pixel Adventure.tsx",
+        "Level-01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
